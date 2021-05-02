@@ -1,0 +1,5 @@
+git init
+git clone url
+git add filepath
+git commit -m ""
+git push remote branch
